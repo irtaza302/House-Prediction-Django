@@ -1,6 +1,6 @@
 # House Price Predictor
 ![House Price Predictor](1.png)
-
+![House Price Predictor](2.png)
 ## Overview
 
 House Price Predictor is a Django-based web application that uses machine learning to predict house prices based on various features. The application leverages a linear regression model trained on historical housing data to provide price predictions.

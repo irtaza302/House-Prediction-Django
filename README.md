@@ -1,4 +1,5 @@
 # House Price Predictor
+![House Price Predictor](1.png)
 
 ## Overview
 
